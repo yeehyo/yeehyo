@@ -4,7 +4,7 @@
 
   ### 안녕하세요. 이효정입니다. 👋
   <hr>
-  ####문제 해결과 효율적인 생산성에 관심이 많은 학생입니다.
+  문제 해결과 효율적인 생산에 관심이 많은 학생입니다.
 
   ##### 😄 연락 : <a href="#"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
