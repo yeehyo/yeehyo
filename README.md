@@ -5,6 +5,7 @@
   ### 안녕하세요. 이효정입니다. 👋
   <hr>
   HTML, CSS, JS 공부중입니다.
+  디자인 하다가 왔습니다..
 
   ##### 😄 연락 : <a href="#"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
